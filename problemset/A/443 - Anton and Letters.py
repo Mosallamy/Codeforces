@@ -1,0 +1,1 @@
+print(len(set(input()[1:-1].replace(", ",""))),end="") #10 minutes and one line :):):)
