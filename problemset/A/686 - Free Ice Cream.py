@@ -12,5 +12,4 @@ for i in range(people):
     elif action == "-" and packs < int(pack):
         distress += 1
 
-
 print(f"{packs} {distress}", end="")
